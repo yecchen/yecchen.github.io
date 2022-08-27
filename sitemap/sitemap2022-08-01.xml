@@ -23,14 +23,14 @@
 <url>
  <loc>https://yecchen.github.io/cv/cv-YeChenchen.pdf</loc>
  <priority>0.3</priority>
- <lastmod>2022-08-16</lastmod>
+ <lastmod>2022-08-27</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 
 <url>
  <loc>https://yecchen.github.io/</loc>
  <priority>0.3</priority>
- <lastmod>2022-08-16</lastmod>
+ <lastmod>2022-08-27</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 
@@ -49,6 +49,13 @@
 </url>
 
 <url>
+ <loc>https://yecchen.github.io/paper/RERG_mm22_slides.pdf</loc>
+ <priority>0.3</priority>
+ <lastmod>2022-08-27</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
  <loc>https://yecchen.github.io/paper/Co-Gen_sigir22_slides.pdf</loc>
  <priority>0.3</priority>
  <lastmod>2022-08-16</lastmod>
@@ -58,7 +65,7 @@
 <url>
  <loc>https://yecchen.github.io/paper/RERG_mm22.pdf</loc>
  <priority>0.3</priority>
- <lastmod>2022-08-16</lastmod>
+ <lastmod>2022-08-27</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 
