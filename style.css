@@ -1,6 +1,6 @@
 table#tlayout {
     width: 100%;
-	max-width: 920px;
+	max-width: 930px;
     border: none;
     border-collapse: separate;
     background: white;
@@ -112,6 +112,7 @@ strong {
 	font-weight: bold;
 }
 
+
 h1, h2, h3 {
 	color: #527bbd;
 	margin-top: 0.7em;
@@ -126,8 +127,9 @@ h1 {
 }
 
 h2 {
-	padding-top: 0.8em;
-    padding-bottom: 0.6em;
+	padding-top: 0.1em;
+    padding-bottom: 0.4em;
+	/* margin-top: 0.4em; */
 	font-size: 130%;
 }
 
@@ -360,4 +362,33 @@ img {
 table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
+	width: 100%;
+	height: auto;
+}
+
+.imgtable td:first-child,
+.imgtable td:last-child {
+    width: 25%; /* Adjust as needed for your images */
+}
+
+.imgtable td:nth-child(2) {
+    width: 50%; /* Adjust as needed for your text */
+}
+
+.news-section {
+    height: 160px; /* Or any height you prefer */
+    overflow-y: scroll;
+    border: 1px solid #ccc; /* Optional border */
+    /* padding: 30px; */
+	padding: 3px;
+	padding-left: 2em;
+}
+
+.news-section ul {
+    padding: 0;
+    list-style: square;
+}
+
+.news-section li {
+    margin-bottom: 8px; /* Spacing between list items */
 }
